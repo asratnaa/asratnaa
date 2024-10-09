@@ -1,6 +1,6 @@
 # Hello, I'm Ratna 👋
 Welcome to my GitHub profile! I'm a passionate learner in the fields of **Data Analyst** and **Quality Assurance**
-and I'm currently honing my skills in **Python**, **SQL**, and **Automation Testing**. 
+and I'm currently improving my skills in **Python**, **SQL**, and **Automation Testing**. 
 ## 🔭 Current Focus
 - Learning **Data Analysis** using Python and SQL
 - Practicing **Automation Testing** for Software Quality Assurance (SQA)
