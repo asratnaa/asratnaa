@@ -8,7 +8,7 @@ and I'm currently improving my skills in **Python**, **SQL**, and **Automation T
 - **Programming Languages**: Python, SQL
 - **Data Analysis**: Pandas, Numpy, Matplotlib
 - **Testing Tools**: Selenium, Gherkin
-- **Databases**: MySQL,progresssql,google big query
+- **Databases**: MySQL,postgresssql,google big query
 ## 🌱 Projects
 - **Data Analysis**: Exploring data sets, performing statistical analysis, and creating visualizations.
 - **Automation Testing**: Writing and executing test scripts using automation tools.
