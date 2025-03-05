@@ -18,5 +18,5 @@ and I'm currently improving my skills in **Python**, **SQL**, and **Automation T
 - [HackerRank SQL Certificate]
   
 ## 📫 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/asri-ratna-widya-aisyah-286981127/
+- LinkedIn: www.linkedin.com/in/asriratnawa
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
